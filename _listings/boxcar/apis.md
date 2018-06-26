@@ -6,8 +6,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/714-boxcar
 x-kinRank: "8"
 x-alexaRank: "1280273"
 tags: Boxcar
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-06-26"
+modified: "2018-06-26"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/boxcar/master/_listings/boxcar/apis.md
 specificationVersion: "0.14"
 apis:
